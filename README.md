@@ -22,10 +22,10 @@ Currently tested on Ubuntu 10.04 ONLY.
 	['redis']['loglevel']     # "notice"
 	['redis']['password']     # nil
 
-	['redis']['source']['version']          # "2.4.1"
+	['redis']['source']['version']          # "2.6.12"
 	['redis']['source']['prefix']           # "/usr/local"
-	['redis']['source']['tar_url']          # "http://redis.googlecode.com/files/redis-2.4.1.tar.gz"
-	['redis']['source']['tar_checksum']     # "38e02..."
+	['redis']['source']['tar_url']          # "http://redis.googlecode.com/files/redis-2.6.12.tar.gz"
+	['redis']['source']['tar_checksum']     # "d2c87..."
 	['redis']['source']['create_service']   # true
 	['redis']['source']['user']             # "redis"
 	['redis']['source']['group']            # "redis"
